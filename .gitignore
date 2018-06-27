@@ -100,9 +100,5 @@ ENV/
 # mypy
 .mypy_cache/
 
-# Datasets and other garbage
-*.csv
-*.png
-
 # Mac OS X garbage
 .DS_Store
