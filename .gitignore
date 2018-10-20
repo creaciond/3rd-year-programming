@@ -102,3 +102,9 @@ ENV/
 
 # Mac OS X garbage
 .DS_Store
+
+# data files
+*.csv
+*.tsv
+*.png
+*.jpeg
